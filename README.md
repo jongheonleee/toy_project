@@ -15,7 +15,7 @@
 
 <br>
 
-## 🏃🏻 현재 진행 현황
+## 🏃🏻 현재 진행 현황(erd-cloud 작업 링크 : https://www.erdcloud.com/d/kefpypfDzSH6TGWhd) 
 
 - [쿠폰 ERD]
 - <img src="https://github.com/jongheonleee/toy_project/assets/87258372/f1fb86a6-2519-4297-bddd-822de0b5bdac" width="500" height="500"/>
