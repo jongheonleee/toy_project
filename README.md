@@ -103,11 +103,24 @@
 
 <br>
 
-- 쿠폰 발행 정책 리스트(지속적으로 업데이트)
+### 1-3. 쿠폰 정책 및 템플릿 활용 가정 
+
+- [쿠폰 정책]
+- <img src="https://github.com/jongheonleee/toy_project/assets/87258372/821579e4-5673-43ef-ace8-7ddc918514ba" width="500" height="500"/>
+- 쿠폰 정책 리스트
   
-- 쿠폰 발급 정책 리스트(지속적으로 업데이트)
+
 
 <br>
+
+- [쿠폰 템플릿]
+- <img src="https://github.com/jongheonleee/toy_project/assets/87258372/40e999d0-f026-4c41-8df5-c886f097840e" width="500" height="500"/>
+- 쿠폰 템플릿 리스트
+
+
+
+<br>
+
 
 
 ### 2-1. 📖 상품
@@ -150,5 +163,15 @@
     
 
 ## 설계 -> 개념 모델링 & 논리 모델링
+
+- [쿠폰]
+- <img src="https://github.com/jongheonleee/toy_project/assets/87258372/0ee726df-dedf-4cf3-b997-b5129b77553a" width="500" height="500"/>
+
+<br>
+
+- [상품]
+- <img src="https://github.com/jongheonleee/toy_project/assets/87258372/8ced429f-157b-41e0-b712-1fc8ce430c0a" width="500" height="500"/>
+
+
 
 ## 구현 -> 물리 모델링 
